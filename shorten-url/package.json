@@ -1,0 +1,29 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.jsx",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3",
+    "axios": "0.18.0",
+    "recompose": "0.30.0",
+    "redux": "4.0.1",
+    "@babel/runtime": "7.4.4",
+    "styled-components": "5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

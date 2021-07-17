@@ -1,0 +1,22 @@
+.App {
+  border: 1px solid #cdcdcd;
+  width: 1000px;
+  height: 700px;
+  margin: 20px auto;
+  display: flex;
+}
+
+.LeftRail {
+  height: 100%;
+  border-right: 1px solid #cdcdcd;
+  width: 300px;
+  padding: 0 15px;
+}
+
+.RightRail {
+  width: calc(100% - 300px);
+}
+
+a {
+  cursor: pointer;
+}

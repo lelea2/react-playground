@@ -1,0 +1,3 @@
+[submodule "note-taking-app"]
+	path = note-taking-app
+	url = https://github.com/lelea2/react-playground
